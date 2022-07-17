@@ -1,2 +1,2 @@
 # resturant
-resturant website with reactjs / react router dom
+resturant website with HTML CSS fully responsive website
